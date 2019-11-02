@@ -1,9 +1,12 @@
 The Rainbow
 
-Purple
-Pink
+
+Red
 Orange
-Blue
 Yellow
+Green
+Blue
+Indigo
+Violet
 
 This is Rainbow color.
